@@ -1,0 +1,18 @@
+* {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+.shapes {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+
+.circle1, .circle3 {
+  stroke: black;
+  stroke-width: 5px;
+}
